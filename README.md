@@ -1,4 +1,4 @@
-# Health Care Center
+# CareAI-Personalized-Medical-Advisory-System
 
 ## Overview
 The Health Care Center project is a web application designed to assist users in diagnosing potential health issues based on their symptoms. Using machine learning algorithms, the application predicts possible diseases and provides relevant information such as descriptions, precautions, medications, workouts, and diets.
@@ -27,8 +27,3 @@ This application features a speech recognition interface to facilitate symptom i
 - Python 3.x
 - Flask
 - Required Python packages (listed in `requirements.txt`)
-
-### Clone the Repository
-```bash
-git clone https://github.com/yourusername/health-care-center.git
-cd health-care-center
